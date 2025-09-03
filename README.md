@@ -30,13 +30,13 @@ Once you are satisfied of your changes, you can then create a [**Pull Request**]
 
 The following steps have to be executed **once**.
 
-1. Fork the original repository (this repository): at the top of the page, find the **Fork** button. 
+1. Fork the original repository (this repository): at the top of the page, find the "**Fork**" button. 
 
 <p align="center">
     <img src="assets/r4r_journals-01.png" width="600">
 </p>
 
-2. In the **Creat a Fork** page, ensure that (1) "Copy the `main` brach only" is ticked off and then (2) click the **Create fork** button.
+2. In the **Creat a Fork** page, ensure that (1) "Copy the `main` brach only" is ticked off and then (2) click the "**Create fork**" button.
 
 <p align="center">
     <img src="assets/r4r_journals-02.png" width="600">
@@ -46,44 +46,44 @@ The following steps have to be executed **once**.
 
 Upon creating a Fork of the original repository, you will find the clone in your list of repositories under your own account.
 
-1. Navigate to your own account, and select the **R4R_F24-journals** repository.
+1. Navigate to your own account, and select the "**R4R_F24-journals**" repository.
 2. (1) Click the Select the **Branches** button (you will see **main** on it) and (2) Select your name. If you can't see it, click **View all branches** and select your name.
 
 <p align="center">
     <img src="assets/r4r_journals-03.png" width="600">
 </p>
 
-3. Select the journal you want to edit; For example reasons I chose `journal_01-02sept25.md`
+3. Select the journal you want to edit; For example reasons I chose `journal_01-02sept25.md`.
 
 <p align="center">
     <img src="assets/r4r_journals-04.png" width="600">
 </p>
 
-4. Click on the **Edit** function (pencil on the top right side)
+4. Click on the **Edit** function (pencil on the top right side).
 
 <p align="center">
     <img src="assets/r4r_journals-05.png" width="600">
 </p>
 
-5. Edit the entry using Markdown (use the [Markdown guide](https://www.markdownguide.org/basic-syntax/) to learn the correct use of the Markdown syntax). Once finished, click on the **Commit changes...** button, on the top right.
+5. Edit the entry using Markdown (use the [Markdown guide](https://www.markdownguide.org/basic-syntax/) to learn the correct use of the Markdown syntax). Once finished, click on the "**Commit changes...**" button, on the top right.
 
 <p align="center">
     <img src="assets/r4r_journals-06.png" width="600">
 </p>
 
-6. (1) Give a constructive, succint message; (2) **VERY IMPORTANT**: make sure to select "Commit directly to the `<YOUR NAME>` branch"; (3) Press **Commit changes**.
+6. (1) Give a constructive, succint message; (2) **VERY IMPORTANT**: make sure to select "Commit directly to the `<YOUR NAME>` branch"; (3) Press "**Commit changes**".
 
 <p align="center">
     <img src="assets/r4r_journals-07.png" width="600">
 </p>
 
-7. You should be automatically be brought to your fork's main page; (1) Sanity check: ensure that there is a message saying "This branch is `#` commit ahead of `CosiMichele/R4R_F25-journals:<YOUR NAME>`". (2) In the yellow message box, click **Compare & pull request**
+7. You should be automatically be brought to your fork's main page; (1) Sanity check: ensure that there is a message saying "This branch is `#` commit ahead of `CosiMichele/R4R_F25-journals:<YOUR NAME>`". (2) In the yellow message box, click "**Compare & pull request**".
 
 <p align="center">
     <img src="assets/r4r_journals-08.png" width="600">
 </p>
 
-9. (1) Sanity check: ensure that base and head repositories are both `<YOUR NAME>`. (2) Click **Create pull request**.
+9. (1) Sanity check: ensure that base and head repositories are both `<YOUR NAME>`. (2) Click "**Create pull request**".
 
 <p align="center">
     <img src="assets/r4r_journals-09.png" width="600">
