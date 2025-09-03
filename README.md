@@ -20,6 +20,26 @@ Submissions are carried out in 2 steps:
 1. Forking the repository (**one time** step!)
 2. Pull requests (done each time you want to make a submission)
 
+[**Forking**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) is the action of copying a repository AND keeping it connected to the source (copying but severing the connection is called [**Importing**](https://docs.github.com/en/migrations/importing-source-code/using-github-importer/importing-a-repository-with-github-importer)).
+
+This allows to create your own copy of the journaling repository. You can make changes to the [**Branch**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) of the copied repository without altering the source. 
+
+Once you are satisfied of your changes, you can then create a [**Pull Request**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) in order to submit your weekly journals.
+
 ### Forking
+
+The following steps have to be executed **once**.
+
+1. Fork the original repository: at the top of the page, find the **Fork** button. 
+
+<p align="center">
+    <img src="assets/r4r_journals-01.png" width="400">
+</p>
+
+2. In the **Creat a Fork** page, ensure that (1) "Copy the `main` brach only" is ticked off and then (2) click the **Create fork** button.
+
+<p align="center">
+    <img src="assets/r4r_journals-02.png" width="400">
+</p>
 
 ### Pull Requests
