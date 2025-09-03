@@ -30,16 +30,16 @@ Once you are satisfied of your changes, you can then create a [**Pull Request**]
 
 The following steps have to be executed **once**.
 
-1. Fork the original repository: at the top of the page, find the **Fork** button. 
+1. Fork the original repository (this repository): at the top of the page, find the **Fork** button. 
 
 <p align="center">
-    <img src="assets/r4r_journals-01.png" width="400">
+    <img src="assets/r4r_journals-01.png" width="600">
 </p>
 
 2. In the **Creat a Fork** page, ensure that (1) "Copy the `main` brach only" is ticked off and then (2) click the **Create fork** button.
 
 <p align="center">
-    <img src="assets/r4r_journals-02.png" width="400">
+    <img src="assets/r4r_journals-02.png" width="600">
 </p>
 
 ### Pull Requests
