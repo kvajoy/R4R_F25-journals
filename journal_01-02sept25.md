@@ -20,7 +20,7 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 ## Research Application
 
-> ![important]
+> [!IMPORTANT]
 > **Due Monday 8th, 11pm**
 
 
@@ -28,5 +28,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 ## Cohort meetup discussion
 
-> ![important]
+> [!IMPORTANT]
 > **No Cohort discussion due this week**

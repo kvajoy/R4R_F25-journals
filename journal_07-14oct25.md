@@ -4,7 +4,7 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 ## Rose, Bud, Thorn
 
-> ![important]
+> [!IMPORTANT]
 > **Due Wednesday 15th, 11pm**
 
 ### Rose
@@ -20,7 +20,7 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 ## Research Application
 
-> ![important]
+> [!IMPORTANT]
 > **Due Monday 13th, 11pm**
 
 
@@ -28,5 +28,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 ## Cohort meetup discussion
 
-> ![important]
+> [!IMPORTANT]
 > **No Cohort discussion due this week**
