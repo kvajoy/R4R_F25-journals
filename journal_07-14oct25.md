@@ -17,6 +17,7 @@ I’m still a bit confused and kind of afraid of coding in the terminal, it feel
 
 ### Bud
 ---
+
 A good idea might be to share my code with my lab members when I work in a coding environment, because sometimes we end up doing the same things but with different approaches. Particularly for the analysis of metal(loid) concentrations in sediments or organisms and afterwards a risk assessment. 
 
 ## Research Application
@@ -33,3 +34,4 @@ For a risk assessment, I actually plan to provide my code, just share my reposit
 > [!IMPORTANT]
 
 > **No Cohort discussion due this week**
+
