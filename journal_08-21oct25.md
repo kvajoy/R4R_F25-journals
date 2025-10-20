@@ -20,6 +20,9 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 ## Research Application
 
+Last week we covered containers. I don’t think I’ll use them often, but if I ever do, it would probably be for a project where I’m responsible for a specific part and then hand it off to someone else to continue. For instance, I might write the code for training a model to analyze tissue images (histology), and then a colleague’s lab could upload the images and use the results for further research.
+
+
 > [!IMPORTANT]
 > **Due Monday 20th, 11pm**
 
@@ -29,4 +32,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 30th, 11am**
