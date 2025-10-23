@@ -9,14 +9,15 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 ### Rose
 
+Currently HPC are not required to my research, so I don't consider I will be using them any time soon.
 
 ### Thorn
 
+Definitely the coding on the HPC terminal, it might take me some time to get used to it.
 
 ### Bud
 
-
----
+If I gather large datasets on pesticide use in Arizona and conduct research that requires HPC and containers, I might use it to work in collaboration with my labmates. 
 
 ## Research Application
 
@@ -31,6 +32,7 @@ Last week we covered containers. I don’t think I’ll use them often, but if I
 
 ## Cohort meetup discussion
 
-> [!IMPORTANT]
+
 
 > **Due Thursday 30th, 11am**
+
