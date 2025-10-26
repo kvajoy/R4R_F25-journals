@@ -32,7 +32,6 @@ Last week we covered containers. I don’t think I’ll use them often, but if I
 
 ## Cohort meetup discussion
 
-
-
 > **Due Thursday 30th, 11am**
 
+In the cohort discussion, we covered a bunch of topics. Most of the conversation focused on how things differ between countries and how it might be a bit of a challenge for each of us, as international students, to apply what we’ve learned in this fellowship once we return home. We all shared the regulations in our own countries, and it’s clear that it can be a little tough at first. The US definitely offers more accessibility in that sense. Overall, it was a really good talk.
