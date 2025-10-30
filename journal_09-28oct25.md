@@ -9,12 +9,15 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 ### Rose
 
+I think I might use CyVerse to make my collected data public and also maybe as a replacement for Google Colab.
 
 ### Thorn
 
+Coding in the terminal.
 
 ### Bud
 
+Use it as another tool for data management and tools like Docker.
 
 ---
 
@@ -29,4 +32,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 6th, 11am**
