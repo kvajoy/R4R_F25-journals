@@ -9,12 +9,15 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 ### Rose
 
+I think this is going to be very useful when trying to use Claude desktop. It’s definitely a tool I hadn’t thought of before, so I’m not sure how I’ll be able to implement it. But I think generating certain graphics with my datasets could be one possible application and helping me with vibe coding. 
 
 ### Thorn
 
+Starting with the API key might be hard for me, but I think once I do it, I’ll get used to it.
 
 ### Bud
 
+I could use the model to help me with my projects in general, but I need to be careful about examining what it creates. For instance, it could help me with code and with a README file. 
 
 ---
 
@@ -30,3 +33,4 @@ For me, Jeff’s presentation made a lot of sense. I might use some of the websi
 > [!IMPORTANT]
 
 > **No Cohort discussion due this week**
+
